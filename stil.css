@@ -1,0 +1,22 @@
+h1{
+	font-size:30px;
+	font-family:"Sansita";
+	font-style:normal;
+	font-weight:bold;
+	color:rgb(64,40,58);
+	background-color:rgb(213,175,204);
+	line-height: 40px;
+	width: 800px;
+}
+p{
+	font-size:20px;
+	font-family:Times new roman;
+	font-style:normal;
+	font-weight:normal;
+	background-color:rgb(245,212,237);
+	line-height: 20px;
+	width: 800px;
+}
+body{
+	background-color:rgb(249,235,246);
+}
